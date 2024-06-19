@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"0ca20ca3462184c6","x":-520,"y":-260,"width":250,"height":60,"color":"1","type":"text","text":"Ленин"},
+		{"id":"f22d51e55d43124f","x":-240,"y":-260,"width":250,"height":60,"color":"4","type":"text","text":"Диалектика"},
+		{"id":"c891324688d81463","x":60,"y":-260,"width":250,"height":60,"color":"6","type":"text","text":"Солженицын"},
+		{"id":"22c10a358d6df2fe","x":-520,"y":-170,"width":250,"height":60,"type":"text","text":"50 томов"},
+		{"id":"2837510605bec546","type":"text","text":"Главное в ленинизме","x":-520,"y":-80,"width":250,"height":60},
+		{"id":"8f1c7ade52eda1d9","type":"text","text":"Основное в ленинзме","x":-520,"y":20,"width":250,"height":60},
+		{"id":"db151c120a0d9efa","x":-520,"y":120,"width":250,"height":76,"type":"text","text":"Обсуждение 50 томов"},
+		{"id":"d4903d92a6018a78","x":340,"y":-260,"width":250,"height":60,"color":"5","type":"text","text":"Попов"},
+		{"id":"7f2e1f5a9761bc9d","x":620,"y":-260,"width":250,"height":60,"color":"1","type":"text","text":"Свободное Время"},
+		{"id":"9d6ad6276f4fc783","x":630,"y":-181,"width":250,"height":60,"type":"text","text":"Научный социализм"}
+	],
+	"edges":[]
+}

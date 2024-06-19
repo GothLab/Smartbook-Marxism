@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "a68d54625a7b382e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8e9d4c7b58a15c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b9da660fffee2dc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17dcb660c7246393",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a91d4bb99f999f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bca0daed7b12e11",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "20817e07768bc6f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "44f1f23488ca178c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272.5
+  },
+  "right": {
+    "id": "cc82538e2b90cfd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2caa6721df1711f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d93ad2b2e60da71",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "22e9430b0d438c10",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa1eaa3cb2df109e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "40a85d654feeee1b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3b9da660fffee2dc",
+  "lastOpenFiles": [
+    "Pasted image 20240403222120.png",
+    "Pasted image 20240403220215.png",
+    "Pasted image 20240403221929.png",
+    "Pasted image 20240403221811.png",
+    "Pasted image 20240403221616.png",
+    "Pasted image 20240403220658.png",
+    "Marxism 101/Untitled.canvas",
+    "Сталин/18 Том/15.md",
+    "Сталин/18 Том/16.md",
+    "Сталин/18 Том/14.md",
+    "Сталин/18 Том/13.md",
+    "Сталин/18 Том/12.md",
+    "Сталин/18 Том/11.md",
+    "Сталин/18 Том/10.md",
+    "Сталин/18 Том/09.md",
+    "Сталин/18 Том/08.md",
+    "Сталин/18 Том/07.md",
+    "Сталин/18 Том/06.md",
+    "Сталин/18 Том/05.md",
+    "Сталин/18 Том/04.md",
+    "Сталин/18 Том/03.md",
+    "Сталин/18 Том/02.md",
+    "Сталин/18 Том/01.md",
+    "Сталин/18 Том/00.md",
+    "Сталин/00.md",
+    "Сталин/1 Том/00.md",
+    "Сталин/17 Том/21.md",
+    "Сталин/17 Том/20.md",
+    "Сталин/17 Том/19.md",
+    "Сталин/17 Том/18.md",
+    "Сталин/17 Том/17.md",
+    "Сталин/17 Том/16.md",
+    "Сталин/18 Том",
+    "Сталин/17 Том",
+    "Сталин/16 Том",
+    "Сталин/15 Том",
+    "Сталин/14 Том",
+    "Сталин/12 Том",
+    "Сталин/13 Том",
+    "Сталин/11 Том",
+    "Сталин/10 Том",
+    "Сталин/9 Том",
+    "index.canvas",
+    "Свободное Время/Время для развития/images/Pasted image 20240320011329.png",
+    "Свободное Время/Время для развития/images/Pasted image 20240320011824.png",
+    "Свободное Время/Время для развития/images/Pasted image 20240320011814.png",
+    "Свободное Время/Время для развития/images/Pasted image 20240320011757.png"
+  ]
+}
